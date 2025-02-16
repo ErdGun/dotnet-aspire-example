@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "aj25Xs0+cHS4DrDv/BDTXUdR9nCJUFelJFqi5gsSB3o=",
+  "Source": "Api",
+  "BasePath": "_content/Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Api\\wwwroot",
+      "Source": "Api",
+      "ContentRoot": "C:\\dev\\dotnet-aspire-example\\start-with-api\\Api\\wwwroot\\",
+      "BasePath": "_content/Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\dev\\dotnet-aspire-example\\start-with-api\\Api\\obj\\Debug\\net9.0\\compressed\\38vxbaj99x-yn5pc06jpf.gz",
+      "SourceId": "Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\dotnet-aspire-example\\start-with-api\\Api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Api",
+      "RelativePath": "zones#[.{fingerprint=yn5pc06jpf}]?.json.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\dev\\dotnet-aspire-example\\start-with-api\\Api\\wwwroot\\zones.json",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "iwleegdzq0",
+      "Integrity": "nvuTefjU+vrgkBbcBb3/3ztYCz2oDYui7sBThZc/728=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\dev\\dotnet-aspire-example\\start-with-api\\Api\\wwwroot\\zones.json"
+    },
+    {
+      "Identity": "C:\\dev\\dotnet-aspire-example\\start-with-api\\Api\\wwwroot\\zones.json",
+      "SourceId": "Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\dotnet-aspire-example\\start-with-api\\Api\\wwwroot\\",
+      "BasePath": "_content/Api",
+      "RelativePath": "zones#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yn5pc06jpf",
+      "Integrity": "Emts5Mp4CuylVTc99GnetqEssgFjzPKRNTNr28fBhws=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\zones.json"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "zones.json",
+      "AssetFile": "C:\\dev\\dotnet-aspire-example\\start-with-api\\Api\\obj\\Debug\\net9.0\\compressed\\38vxbaj99x-yn5pc06jpf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000005773505"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173204"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nvuTefjU+vrgkBbcBb3/3ztYCz2oDYui7sBThZc/728=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:01:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Emts5Mp4CuylVTc99GnetqEssgFjzPKRNTNr28fBhws=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Emts5Mp4CuylVTc99GnetqEssgFjzPKRNTNr28fBhws="
+        }
+      ]
+    },
+    {
+      "Route": "zones.json",
+      "AssetFile": "C:\\dev\\dotnet-aspire-example\\start-with-api\\Api\\wwwroot\\zones.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6043841"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Emts5Mp4CuylVTc99GnetqEssgFjzPKRNTNr28fBhws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:01:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Emts5Mp4CuylVTc99GnetqEssgFjzPKRNTNr28fBhws="
+        }
+      ]
+    },
+    {
+      "Route": "zones.json.gz",
+      "AssetFile": "C:\\dev\\dotnet-aspire-example\\start-with-api\\Api\\obj\\Debug\\net9.0\\compressed\\38vxbaj99x-yn5pc06jpf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nvuTefjU+vrgkBbcBb3/3ztYCz2oDYui7sBThZc/728=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:01:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nvuTefjU+vrgkBbcBb3/3ztYCz2oDYui7sBThZc/728="
+        }
+      ]
+    },
+    {
+      "Route": "zones.yn5pc06jpf.json",
+      "AssetFile": "C:\\dev\\dotnet-aspire-example\\start-with-api\\Api\\obj\\Debug\\net9.0\\compressed\\38vxbaj99x-yn5pc06jpf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000005773505"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173204"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nvuTefjU+vrgkBbcBb3/3ztYCz2oDYui7sBThZc/728=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:01:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Emts5Mp4CuylVTc99GnetqEssgFjzPKRNTNr28fBhws=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yn5pc06jpf"
+        },
+        {
+          "Name": "label",
+          "Value": "zones.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Emts5Mp4CuylVTc99GnetqEssgFjzPKRNTNr28fBhws="
+        }
+      ]
+    },
+    {
+      "Route": "zones.yn5pc06jpf.json",
+      "AssetFile": "C:\\dev\\dotnet-aspire-example\\start-with-api\\Api\\wwwroot\\zones.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6043841"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Emts5Mp4CuylVTc99GnetqEssgFjzPKRNTNr28fBhws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:01:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yn5pc06jpf"
+        },
+        {
+          "Name": "label",
+          "Value": "zones.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Emts5Mp4CuylVTc99GnetqEssgFjzPKRNTNr28fBhws="
+        }
+      ]
+    },
+    {
+      "Route": "zones.yn5pc06jpf.json.gz",
+      "AssetFile": "C:\\dev\\dotnet-aspire-example\\start-with-api\\Api\\obj\\Debug\\net9.0\\compressed\\38vxbaj99x-yn5pc06jpf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nvuTefjU+vrgkBbcBb3/3ztYCz2oDYui7sBThZc/728=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:01:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yn5pc06jpf"
+        },
+        {
+          "Name": "label",
+          "Value": "zones.json.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nvuTefjU+vrgkBbcBb3/3ztYCz2oDYui7sBThZc/728="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Api/zones.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\zones.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Emts5Mp4CuylVTc99GnetqEssgFjzPKRNTNr28fBhws="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6043841"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022Emts5Mp4CuylVTc99GnetqEssgFjzPKRNTNr28fBhws=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Feb 2025 23:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Api/zones.yn5pc06jpf.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\zones.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yn5pc06jpf"},{"Name":"integrity","Value":"sha256-Emts5Mp4CuylVTc99GnetqEssgFjzPKRNTNr28fBhws="},{"Name":"label","Value":"_content/Api/zones.json"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6043841"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022Emts5Mp4CuylVTc99GnetqEssgFjzPKRNTNr28fBhws=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Feb 2025 23:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

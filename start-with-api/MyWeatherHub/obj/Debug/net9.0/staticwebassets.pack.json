@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\dev\\dotnet-aspire-example\\start-with-api\\MyWeatherHub\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MyWeatherHub.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyWeatherHub.lr61wf86p0.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\dev\\dotnet-aspire-example\\start-with-api\\MyWeatherHub\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\dev\\dotnet-aspire-example\\start-with-api\\MyWeatherHub\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\dev\\dotnet-aspire-example\\start-with-api\\MyWeatherHub\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\dev\\dotnet-aspire-example\\start-with-api\\MyWeatherHub\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\dev\\dotnet-aspire-example\\start-with-api\\MyWeatherHub\\wwwroot\\zones.json",
+      "PackagePath": "staticwebassets\\zones.json"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MyWeatherHub.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MyWeatherHub.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.MyWeatherHub.props",
+      "PackagePath": "build\\MyWeatherHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MyWeatherHub.props",
+      "PackagePath": "buildMultiTargeting\\MyWeatherHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.MyWeatherHub.props",
+      "PackagePath": "buildTransitive\\MyWeatherHub.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

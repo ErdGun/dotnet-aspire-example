@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "zones.json",
+      "AssetFile": "zones.json.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000005773505"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nvuTefjU+vrgkBbcBb3/3ztYCz2oDYui7sBThZc/728=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Emts5Mp4CuylVTc99GnetqEssgFjzPKRNTNr28fBhws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:01:37 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Emts5Mp4CuylVTc99GnetqEssgFjzPKRNTNr28fBhws="
+        }
+      ]
+    },
+    {
+      "Route": "zones.json",
+      "AssetFile": "zones.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6043841"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Emts5Mp4CuylVTc99GnetqEssgFjzPKRNTNr28fBhws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:01:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Emts5Mp4CuylVTc99GnetqEssgFjzPKRNTNr28fBhws="
+        }
+      ]
+    },
+    {
+      "Route": "zones.json.gz",
+      "AssetFile": "zones.json.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nvuTefjU+vrgkBbcBb3/3ztYCz2oDYui7sBThZc/728=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:01:37 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nvuTefjU+vrgkBbcBb3/3ztYCz2oDYui7sBThZc/728="
+        }
+      ]
+    },
+    {
+      "Route": "zones.yn5pc06jpf.json",
+      "AssetFile": "zones.json.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000005773505"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nvuTefjU+vrgkBbcBb3/3ztYCz2oDYui7sBThZc/728=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Emts5Mp4CuylVTc99GnetqEssgFjzPKRNTNr28fBhws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:01:37 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yn5pc06jpf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Emts5Mp4CuylVTc99GnetqEssgFjzPKRNTNr28fBhws="
+        },
+        {
+          "Name": "label",
+          "Value": "zones.json"
+        }
+      ]
+    },
+    {
+      "Route": "zones.yn5pc06jpf.json",
+      "AssetFile": "zones.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6043841"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Emts5Mp4CuylVTc99GnetqEssgFjzPKRNTNr28fBhws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:01:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yn5pc06jpf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Emts5Mp4CuylVTc99GnetqEssgFjzPKRNTNr28fBhws="
+        },
+        {
+          "Name": "label",
+          "Value": "zones.json"
+        }
+      ]
+    },
+    {
+      "Route": "zones.yn5pc06jpf.json.gz",
+      "AssetFile": "zones.json.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nvuTefjU+vrgkBbcBb3/3ztYCz2oDYui7sBThZc/728=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:01:37 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yn5pc06jpf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nvuTefjU+vrgkBbcBb3/3ztYCz2oDYui7sBThZc/728="
+        },
+        {
+          "Name": "label",
+          "Value": "zones.json.gz"
+        }
+      ]
+    }
+  ]
+}

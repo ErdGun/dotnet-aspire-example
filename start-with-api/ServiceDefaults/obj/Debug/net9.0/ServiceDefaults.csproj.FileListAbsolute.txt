@@ -1,0 +1,13 @@
+C:\dev\dotnet-aspire-example\start-with-api\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.csproj.AssemblyReference.cache
+C:\dev\dotnet-aspire-example\start-with-api\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\dotnet-aspire-example\start-with-api\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.AssemblyInfoInputs.cache
+C:\dev\dotnet-aspire-example\start-with-api\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.AssemblyInfo.cs
+C:\dev\dotnet-aspire-example\start-with-api\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\dev\dotnet-aspire-example\start-with-api\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.sourcelink.json
+C:\dev\dotnet-aspire-example\start-with-api\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.dll
+C:\dev\dotnet-aspire-example\start-with-api\ServiceDefaults\obj\Debug\net9.0\refint\ServiceDefaults.dll
+C:\dev\dotnet-aspire-example\start-with-api\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.pdb
+C:\dev\dotnet-aspire-example\start-with-api\ServiceDefaults\bin\Debug\net9.0\ServiceDefaults.deps.json
+C:\dev\dotnet-aspire-example\start-with-api\ServiceDefaults\bin\Debug\net9.0\ServiceDefaults.dll
+C:\dev\dotnet-aspire-example\start-with-api\ServiceDefaults\bin\Debug\net9.0\ServiceDefaults.pdb
+C:\dev\dotnet-aspire-example\start-with-api\ServiceDefaults\obj\Debug\net9.0\ref\ServiceDefaults.dll

@@ -1,0 +1,13 @@
+C:\dev\dotnet-aspire-example\AspireExampleApp\AspireExampleApp.ServiceDefaults\bin\Debug\net9.0\AspireExampleApp.ServiceDefaults.deps.json
+C:\dev\dotnet-aspire-example\AspireExampleApp\AspireExampleApp.ServiceDefaults\bin\Debug\net9.0\AspireExampleApp.ServiceDefaults.dll
+C:\dev\dotnet-aspire-example\AspireExampleApp\AspireExampleApp.ServiceDefaults\bin\Debug\net9.0\AspireExampleApp.ServiceDefaults.pdb
+C:\dev\dotnet-aspire-example\AspireExampleApp\AspireExampleApp.ServiceDefaults\obj\Debug\net9.0\AspireExampleApp.ServiceDefaults.csproj.AssemblyReference.cache
+C:\dev\dotnet-aspire-example\AspireExampleApp\AspireExampleApp.ServiceDefaults\obj\Debug\net9.0\AspireExampleApp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\dotnet-aspire-example\AspireExampleApp\AspireExampleApp.ServiceDefaults\obj\Debug\net9.0\AspireExampleApp.ServiceDefaults.AssemblyInfoInputs.cache
+C:\dev\dotnet-aspire-example\AspireExampleApp\AspireExampleApp.ServiceDefaults\obj\Debug\net9.0\AspireExampleApp.ServiceDefaults.AssemblyInfo.cs
+C:\dev\dotnet-aspire-example\AspireExampleApp\AspireExampleApp.ServiceDefaults\obj\Debug\net9.0\AspireExampleApp.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\dev\dotnet-aspire-example\AspireExampleApp\AspireExampleApp.ServiceDefaults\obj\Debug\net9.0\AspireExampleApp.ServiceDefaults.sourcelink.json
+C:\dev\dotnet-aspire-example\AspireExampleApp\AspireExampleApp.ServiceDefaults\obj\Debug\net9.0\AspireExampleApp.ServiceDefaults.dll
+C:\dev\dotnet-aspire-example\AspireExampleApp\AspireExampleApp.ServiceDefaults\obj\Debug\net9.0\refint\AspireExampleApp.ServiceDefaults.dll
+C:\dev\dotnet-aspire-example\AspireExampleApp\AspireExampleApp.ServiceDefaults\obj\Debug\net9.0\AspireExampleApp.ServiceDefaults.pdb
+C:\dev\dotnet-aspire-example\AspireExampleApp\AspireExampleApp.ServiceDefaults\obj\Debug\net9.0\ref\AspireExampleApp.ServiceDefaults.dll
